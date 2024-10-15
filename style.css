@@ -58,3 +58,17 @@ margin-top: 4rem;
 font-size: 1.4vw;
 padding: 2rem;
 }
+
+.perguntacartao p{
+
+    color: var(--destaque);
+    font-weight: 700;
+}
+
+.cartao:hover .cartao{
+
+transform: rotateY('180')
+}
+
+
+
