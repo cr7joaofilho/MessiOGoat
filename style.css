@@ -35,7 +35,7 @@ footer{
     margin: 1rem;
 }
 
-.criaCartao{
+.cartao{
 background-color: var(--cartfrente);
 text-align: center;
 height: 100%;
