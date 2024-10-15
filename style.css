@@ -67,7 +67,7 @@ padding: 2rem;
 
 .cartao:hover .cartao{
 
-transform: rotateY('180')
+transform: rotateY('180deg')
 }
 
 
