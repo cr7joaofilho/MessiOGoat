@@ -40,6 +40,8 @@ background-color: var(--cartfrente);
 text-align: center;
 height: 100%;
 color: var(--branco);
+transform-style: preserve-3d;
+transition: transform 300ms ease-in-out;
 }
 
 .cartao h3{
