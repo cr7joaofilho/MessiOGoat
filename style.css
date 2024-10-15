@@ -67,7 +67,7 @@ padding: 2rem;
     font-weight: 700;
 }
 
-.conteudo-cartao:hover .cartao{
+.perguntacartao:hover .cartao{
 
 transform: rotateY('180deg')
 }
