@@ -73,7 +73,7 @@ padding: 2rem;
 transform: rotateY(180deg)
 }
 
-.perguntacartao, .perguntacartao{
+.perguntacartao, .respostacartao{
 
     backface-visibility: hidden;
     position: absolute;
