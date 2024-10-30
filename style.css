@@ -74,6 +74,13 @@ transform: rotateY(180deg)
 }
 
 
+.perguntacartao, .respostacartao{
 
+    backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+
+}
 
 
