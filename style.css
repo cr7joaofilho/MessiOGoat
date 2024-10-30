@@ -69,7 +69,7 @@ padding: 2rem;
     transform: rotateY(180deg);
 }
 
-.cartao:hover .conteudocartao{
+.cartao.active .conteudocartao{
 
 transform: rotateY(180deg)
 }
