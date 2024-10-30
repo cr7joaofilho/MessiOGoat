@@ -66,6 +66,7 @@ padding: 2rem;
 
     color: var(--destaque);
     font-weight: 700;
+    transform: rotateY(180deg);
 }
 
 .cartao:hover .conteudocartao{
