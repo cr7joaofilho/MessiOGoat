@@ -52,12 +52,12 @@ box-shadow: 8px 8px 25px var(--preto)
 }
 
 .respostacartao{
-padding: 48px;
+padding: 40px;
 background-color: var(--cartverso);
 }
 
 .conteudocartao:hover{
-transform: scale(1,03);
+transform: scale(1,04);
 }
 
 
