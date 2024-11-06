@@ -18,12 +18,13 @@ function criaCartao (categoria, pergunta, resposta ){
     }
 
     function mostraResposta(card){
-    const resposta =card.querySelectior('.resposta-cartao')
+    const resposta =card.querySelectior('.respostacartao')
     if(resposta.style.display ==='nome'){
         resposta.style.display = 'block';
     }
-    }
     else{
         resposta.style.display = 'none';
+    }
+    
     }
     
