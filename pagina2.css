@@ -46,13 +46,15 @@ gap: 4rem;
 
 .conteudocartao{
 padding: 40px;
-background-color: var(--cartfrente);
+background-color: var(--cartaofrente);
 color: var(--branco);
 box-shadow: 8px 8px 25px var(--preto)
 }
 
 .respostacartao{
 padding: 48px;
-background-color: var(--cartverso);
+background-color: var(--cartaoverso);
 }
+
+
 
